@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar datos con ruta relativa
-df = pd.read_csv('data/archivo.csv')
+#df = pd.read_csv('data/archivo.csv')
 
 import streamlit as st
 import joblib
